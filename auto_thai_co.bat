@@ -1,0 +1,1 @@
+pyinstaller --noconfirm -noconsole auto_thai_co.spec
